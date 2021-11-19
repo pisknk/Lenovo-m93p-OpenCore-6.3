@@ -27,5 +27,6 @@ I only have problems with Apple TV as it always crash upon launching the app.
 ## Included Kext Files
 
 ![Here's mine running Catalina](https://i.imgur.com/mJkI0jk.png)
+HoRNDIS.kext is used for connecting your Hackintosh to the Internet using your Android phone USB Tethering feature.
 
 SMBIOS - iMac 14,1
